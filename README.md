@@ -1,4 +1,23 @@
-# Introduction to GitHub
+# Hi there, I'm Ariti Temesgen Wayu!
+
+I'm a self-taught developer passionate about web development, especially building apps that solve real-life problems. I'm currently working on a personal finance tracker using Node.js, Express, and MongoDB.
+
+### About Me:
+- Self-taught in tech since 5 years
+- Currently building **SmartSpend – a personal finance app**
+- Interested in backend development, REST APIs, and clean UI design
+- Looking to collaborate on open-source and real projects
+
+### Tech Stack:
+- Node.js | Express | MongoDB
+- HTML | CSS | JavaScript
+- Git | GitHub | Postman
+
+### Let's Connect:
+- Email: Arititemesgen16@gmail.com
+- PayPal-ready for freelance tasks!
+
+Thanks for visiting my profile!# Introduction to GitHub
 
 <!-- ![](https://github.com/AritiTemesgen16/Arititemesgen/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/AritiTemesgen16/Arititemesgen/actions/workflows/1-create-a-branch.yml/badge.svg)
